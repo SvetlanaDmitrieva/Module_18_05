@@ -32,7 +32,7 @@ def game_store_page(request):
         'games': games,
         'pay': pay
     }
-    return render(request, 'games_store.html', context)
+    return render(request, 'game_store.html', context)
 
 
 def cart_page(request):

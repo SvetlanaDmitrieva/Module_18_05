@@ -4,8 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="4a4c2c88-4ae3-4f02-88c6-c42b71002336" name="Changes" comment="25/11-02">
+    <list default="true" id="4a4c2c88-4ae3-4f02-88c6-c42b71002336" name="Changes" comment="25/11-03">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/UrbanDjango/UrbanDjango/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/UrbanDjango/UrbanDjango/urls.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/UrbanDjango/db.sqlite3" beforeDir="false" afterPath="$PROJECT_DIR$/UrbanDjango/db.sqlite3" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -89,7 +90,15 @@
       <option name="project" value="LOCAL" />
       <updated>1732529392734</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="25/11-03">
+      <option name="closed" value="true" />
+      <created>1732532081003</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1732532081003</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -106,7 +115,8 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="25/11-01" />
     <MESSAGE value="25/11-02" />
-    <option name="LAST_COMMIT_MESSAGE" value="25/11-02" />
+    <MESSAGE value="25/11-03" />
+    <option name="LAST_COMMIT_MESSAGE" value="25/11-03" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
