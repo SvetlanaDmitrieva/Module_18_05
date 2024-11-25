@@ -24,7 +24,7 @@ def main_page(request):
 def game_store_page(request):
     title = 'Лучшие игры для вас'
     text = 'Игры'
-    games = ['Atomic Heart', 'Cyberpunk 2077', 'PayDay 2']
+    games = {'games': ["Atomic Heart", "Cyberpunk 2077", 'PayDay 2']}
     pay = 'Купить'
     context = {
         'title': title,
@@ -32,6 +32,8 @@ def game_store_page(request):
         'games': games,
         'pay': pay
     }
+    # mydict = {'games': ["Atomic Heart", "Cyberpunk 2077", 'PayDay 2']}
+
     return render(request, 'game_store.html', context)
 
 
