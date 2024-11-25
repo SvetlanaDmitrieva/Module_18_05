@@ -24,7 +24,7 @@ from task3.views import  main_page, game_store_page, cart_page
 urlpatterns = [
     path('admin/', admin.site.urls),
     path('', main_page),
-    path('game/', game_store_page),
+    path('games/', game_store_page),
     path('cart/', cart_page),
 ]
 

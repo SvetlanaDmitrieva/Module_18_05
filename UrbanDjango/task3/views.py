@@ -1,7 +1,6 @@
 from django.shortcuts import render
 
 # Create your views here.
-# from django.shortcuts import render
 from django.views.generic import TemplateView
 
 
@@ -24,16 +23,13 @@ def main_page(request):
 def game_store_page(request):
     title = 'Лучшие игры для вас'
     text = 'Игры'
-    games = {'games': ["Atomic Heart", "Cyberpunk 2077", 'PayDay 2']}
     pay = 'Купить'
     context = {
         'title': title,
         'text': text,
-        'games': games,
+        'games': ["Atomic Heart", "Cyberpunk 2077", 'PayDay 2'],
         'pay': pay
     }
-    # mydict = {'games': ["Atomic Heart", "Cyberpunk 2077", 'PayDay 2']}
-
     return render(request, 'game_store.html', context)
 
 
