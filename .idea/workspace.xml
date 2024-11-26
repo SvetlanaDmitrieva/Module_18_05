@@ -4,13 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="4a4c2c88-4ae3-4f02-88c6-c42b71002336" name="Changes" comment="25/11-05">
+    <list default="true" id="4a4c2c88-4ae3-4f02-88c6-c42b71002336" name="Changes" comment="25/11-06">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/UrbanDjango/UrbanDjango/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/UrbanDjango/UrbanDjango/settings.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/UrbanDjango/UrbanDjango/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/UrbanDjango/UrbanDjango/urls.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/UrbanDjango/task3/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/UrbanDjango/task3/views.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/UrbanDjango/templates/third_task/cart.html" beforeDir="false" afterPath="$PROJECT_DIR$/UrbanDjango/templates/third_task/cart.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/UrbanDjango/templates/third_task/game_store.html" beforeDir="false" afterPath="$PROJECT_DIR$/UrbanDjango/templates/third_task/game_store.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/UrbanDjango/templates/third_task/platform.html" beforeDir="false" afterPath="$PROJECT_DIR$/UrbanDjango/templates/third_task/platform.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -20,6 +17,18 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;SvetlanaDmitrieva&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/SvetlanaDmitrieva/Module_18_03.git&quot;,
+    &quot;accountId&quot;: &quot;511d6f8a-e22d-4804-8115-4c38ab9f45d0&quot;
+  }
+}</component>
   <component name="ProjectColorInfo">{
   &quot;customColor&quot;: &quot;&quot;,
   &quot;associatedIndex&quot;: 2
@@ -117,7 +126,15 @@
       <option name="project" value="LOCAL" />
       <updated>1732535095261</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="25/11-06">
+      <option name="closed" value="true" />
+      <created>1732537340217</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1732537340217</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -137,22 +154,7 @@
     <MESSAGE value="25/11-03" />
     <MESSAGE value="25/11-04" />
     <MESSAGE value="25/11-05" />
-    <option name="LAST_COMMIT_MESSAGE" value="25/11-05" />
-  </component>
-  <component name="XDebuggerManager">
-    <breakpoint-manager>
-      <breakpoints>
-        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/UrbanDjango/UrbanDjango/asgi.py</url>
-          <line>9</line>
-          <option name="timeStamp" value="1" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/UrbanDjango/manage.py</url>
-          <line>2</line>
-          <option name="timeStamp" value="2" />
-        </line-breakpoint>
-      </breakpoints>
-    </breakpoint-manager>
+    <MESSAGE value="25/11-06" />
+    <option name="LAST_COMMIT_MESSAGE" value="25/11-06" />
   </component>
 </project>
