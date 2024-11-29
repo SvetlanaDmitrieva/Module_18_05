@@ -4,7 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="4a4c2c88-4ae3-4f02-88c6-c42b71002336" name="Changes" comment="26/11-01" />
+    <list default="true" id="4a4c2c88-4ae3-4f02-88c6-c42b71002336" name="Changes" comment="26/11-02">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/UrbanDjango/UrbanDjango/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/UrbanDjango/UrbanDjango/settings.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/UrbanDjango/UrbanDjango/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/UrbanDjango/UrbanDjango/urls.py" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -21,7 +25,7 @@
 }</component>
   <component name="GithubPullRequestsUISettings">{
   &quot;selectedUrlAndAccountId&quot;: {
-    &quot;url&quot;: &quot;https://github.com/SvetlanaDmitrieva/Module_18_03.git&quot;,
+    &quot;url&quot;: &quot;https://github.com/SvetlanaDmitrieva/Module_18_04.git&quot;,
     &quot;accountId&quot;: &quot;511d6f8a-e22d-4804-8115-4c38ab9f45d0&quot;
   }
 }</component>
@@ -35,13 +39,13 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "master",
-    "last_opened_file_path": "C:/PythonProject_New/pythonProject_18_03"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/PythonProject_New/pythonProject_18_03&quot;
   }
-}]]></component>
+}</component>
   <component name="RunManager">
     <configuration name="main" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
       <module name="pythonProject_18_03" />
@@ -138,7 +142,15 @@
       <option name="project" value="LOCAL" />
       <updated>1732628558131</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="26/11-02">
+      <option name="closed" value="true" />
+      <created>1732628696805</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1732628696805</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -160,6 +172,7 @@
     <MESSAGE value="25/11-05" />
     <MESSAGE value="25/11-06" />
     <MESSAGE value="26/11-01" />
-    <option name="LAST_COMMIT_MESSAGE" value="26/11-01" />
+    <MESSAGE value="26/11-02" />
+    <option name="LAST_COMMIT_MESSAGE" value="26/11-02" />
   </component>
 </project>
